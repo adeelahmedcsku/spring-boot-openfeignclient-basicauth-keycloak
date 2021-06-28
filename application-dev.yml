@@ -2,5 +2,5 @@ portassets:
   name: "portassets"
   url: "http://localhost:8081/Property"
   basicauth:
-      username: "adeel.ahmed@e-dea.it"
-      password: "abcd1234"
+      username: "adeel.ahmed@e-dea.it"   //keycloak username basic auth
+      password: "abcd1234"                // keycloak password
